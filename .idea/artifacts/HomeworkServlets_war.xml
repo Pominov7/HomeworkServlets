@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HomeworkServlets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HomeworkServlets</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HomeworkServlets-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HomeworkServlets:war exploded" />
+    </root>
+  </artifact>
+</component>
